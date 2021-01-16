@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import Box from '@material-ui/core/Box';
-import Slider from '@material-ui/core/Slider';
 import Button from '@material-ui/core/Button';
 
 function App() {
