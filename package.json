@@ -4,7 +4,10 @@
   "homepage": "https://mur6.github.io/react-timer-app/",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^4.11.2",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "next",
+    "@material-ui/styles": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
