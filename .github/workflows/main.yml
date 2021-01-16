@@ -12,7 +12,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: "12.x"
-
+    - name: Install dependencies
+      run: yarn
     - name: Cache dependencies
       uses: actions/cache@v2
       with:
